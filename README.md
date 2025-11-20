@@ -29,7 +29,7 @@ Voici une vidéo d'accompagnement pour vous aider dans les "Forks" : [Forker ce 
 
 > Pour la suite du TP, vous devrez travailler en équipe sur le dépôt, n'oubliez pas de vous ajouter en tant que collaborateurs !
   
-# Ajouter des collaborateurs
+###  Ajouter des collaborateurs
 
 Pour ajouter des collaborateurs à votre dépôt Github, il vous faut :
 
